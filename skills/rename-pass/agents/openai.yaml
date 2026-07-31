@@ -1,0 +1,5 @@
+interface:
+  display_name: "Rename Pass"
+  short_description: "Align identifiers to the artifact's vocabulary"
+policy:
+  allow_implicit_invocation: false
