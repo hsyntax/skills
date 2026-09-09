@@ -1,5 +1,6 @@
 ---
 name: pr
+disable-model-invocation: true
 description: Write GitHub pull request titles and descriptions, including draft planning PR descriptions. Use when the user asks to create, open, publish, draft, update, or rewrite a PR title or description.
 ---
 

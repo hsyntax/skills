@@ -1,0 +1,6 @@
+interface:
+  display_name: "Refine Ramble"
+  short_description: "Turn a ramble into a concise, codebase-grounded thought"
+
+policy:
+  allow_implicit_invocation: false

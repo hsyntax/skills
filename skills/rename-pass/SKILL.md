@@ -1,5 +1,6 @@
 ---
 name: rename-pass
+disable-model-invocation: true
 description: Rename-pass over existing code — align identifiers to the vocabulary the artifact already commits to. Use when the user asks to rename or shorten identifiers, calls names noisy, or when identifiers contradict their own docs or schema.
 ---
 
