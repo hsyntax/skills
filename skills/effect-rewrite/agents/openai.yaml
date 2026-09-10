@@ -1,0 +1,5 @@
+interface:
+  display_name: "Effect Rewrite"
+  short_description: "Simplify and improve the structure and readability of functions"
+policy:
+  allow_implicit_invocation: false
