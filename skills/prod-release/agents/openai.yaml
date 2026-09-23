@@ -1,0 +1,6 @@
+interface:
+  display_name: "Prod Release"
+  short_description: "Write user-focused release notes for Slack"
+
+policy:
+  allow_implicit_invocation: false
