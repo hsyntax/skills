@@ -16,3 +16,5 @@ end-user. i.e, `web`, `cli` or `mcp`.
 
 For changes that don't impact the user, like `backend` changes, include them in
 a separate section with high-level detail but keep them short.
+
+Write the message in slack markdown format.
